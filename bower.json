@@ -1,0 +1,21 @@
+{
+  "name": "Project_management_prototype",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Prathamesh <prathprabhu@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/Prathamesh412/Project_management",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6"
+  }
+}
